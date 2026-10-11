@@ -1,0 +1,22 @@
+// Bill of Materials 
+![Parts laid out](../media/parts-flatlay.jpg)
+
+## From the kit (Elegoo UNO R3 Super Starter Kit)
+
+| Part | Qty | Purpose | Why this part |
+| --- | --- | --- | --- |
+| UNO R3 board | 1 | Microcontroller | Already in kit; runs the FastLED library |
+| Push button | 1 | Tap/hold input while prototyping | Stand-in until touch sensor arrives |
+| Tilt switch | 1 | Shake to surface a memory | Simpler than an accelerometer, no extra cost |
+| 220 Ω resistor | 1 | Protects the LED data line | Already in kit |
+
+## Purchased
+
+| Part | Qty | Cost | Where | Purpose | Why this part |
+| --- | --- | --- | --- | --- | --- |
+| WS2812B LED ring (16) | 1 | $ | [link]() | Light source | Each LED's color can be set separately |
+| TTP223 touch sensor | 1 | $ | [link]() | Touch input | Senses through thin plastic |
+| Clear sphere, 10 cm | 1 | $ | Craft store | The orb | Snap-together halves, easy to open |
+
+**Total purchased:** 50.65
+
